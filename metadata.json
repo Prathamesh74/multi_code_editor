@@ -1,0 +1,5 @@
+{
+  "name": "CollabCanvas",
+  "description": "A real-time collaborative whiteboard and code editor for remote teams.",
+  "requestFramePermissions": []
+}
